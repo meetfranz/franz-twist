@@ -7,7 +7,7 @@
   "author": "Stuart Clark <stuart@realityloop.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://twistapp.com",
+    "serviceURL": "https://twistapp.com/login",
     "message": "",
     "popup": [],
     "hasNotificationSound": true,
